@@ -22,7 +22,10 @@
 3.  [echarts 实例](https://echarts.apache.org/examples/zh/index.html)，[echarts API 文档](https://echarts.apache.org/zh/api.html#echarts)
 
 项目展示
-![项目展示](https://images.gitee.com/uploads/images/2020/1208/183608_b893a510_4964818.gif "20201208_221020.gif")
+![image](https://user-images.githubusercontent.com/99937677/175457511-6c723249-8782-4eb3-8832-c64f8bfdcf0e.png)
+![image](https://user-images.githubusercontent.com/99937677/175457520-b041d782-85e2-48b7-afed-0350e6c71c18.png)
+![image](https://user-images.githubusercontent.com/99937677/175457542-6e48b611-c6b7-433c-9260-e2a6dfb29a7b.png)
+
 
 ## 二、主要文件介绍
 
@@ -193,16 +196,5 @@ Vue.prototype.$http = axios.create({
 6. 新增地图组件，并添加自动轮播功能
 7. 将适配方案从 rem 改成 scale
 
-## 五、反馈
-QQ群二维码：
-
-![输入图片说明](public/image.png)
-
-## 六、相关大屏案例
-（以下案例基于此项目二次开发）：
-
-1. https://gitee.com/memeda520/IofTV-Screen
-
-## 五、七、其余
-
-这个项目是个人的作品，难免会有问题和 BUG，如果有问题请进行评论，我也会尽力去更新，自己也在前端学习的路上，欢迎交流，非常感谢！
+## 五、项目链接
+http://114.132.150.39:8080/
